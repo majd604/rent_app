@@ -28,8 +28,8 @@ A modern Flutter car rental application that allows users to browse, view detail
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://youtube.com/shorts/gixlmgAchWg">
-    <img src="https://img.youtube.com/vi/gixlmgAchWg/0.jpg" width="400"/>
+  <a href="https://www.youtube.com/watch?v=gixlmgAchWg">
+    <img src="https://img.youtube.com/vi/gixlmgAchWg/maxresdefault.jpg" width="400"/>
   </a>
 </p>
 
