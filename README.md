@@ -45,9 +45,11 @@ A modern Flutter car rental application that allows users to browse, view detail
 - Clean Architecture
 
 ---
+
+
+## 📂 Project Structure
+
 lib/
 ├── data
 ├── domain
 ├── presentation
-
-## 📂 Project Structure
