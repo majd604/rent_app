@@ -1,16 +1,44 @@
-# rent_app
+# 🚗 Rent App
 
-A new Flutter project.
+A modern Flutter car rental application that allows users to browse, view details, and explore cars with a clean UI and smooth experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse available cars
+- View car details
+- Google Maps integration
+- Clean and modern UI
+- Onboarding screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](assets/screenshots/home.png)
+
+### 🚘 Car Details
+![Car Details](assets/screenshots/car_details.png)
+
+### 🗺️ Map
+![Map](assets/screenshots/map.png)
+
+### 👋 Onboarding
+![Onboarding](assets/screenshots/onboarding.png)
+
+---
+
+## 🎥 Demo Video
+
+[Watch Video](assets/videos/video_for_app.mp4)
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- BLoC
+- Firebase
+- Clean Architecture
