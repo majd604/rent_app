@@ -16,23 +16,24 @@ A modern Flutter car rental application that allows users to browse, view detail
 
 ## 📸 Screenshots
 
-### 🏠 Home
-![Home](assets/screenshots/home.png)
-
-### 🚘 Car Details
-![Car Details](assets/screenshots/car_details.png)
-
-### 🗺️ Map
-![Map](assets/screenshots/map.png)
-
-### 👋 Onboarding
-![Onboarding](assets/screenshots/onboarding.png)
+<p align="center">
+  <img src="assets/screenshots/home.png" width="200"/>
+  <img src="assets/screenshots/car_details.png" width="200"/>
+  <img src="assets/screenshots/map.png" width="200"/>
+  <img src="assets/screenshots/onboarding.png" width="200"/>
+</p>
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch Video](assets/videos/video_for_app.mp4)
+<p align="center">
+  <a href="https://youtube.com/shorts/gixlmgAchWg">
+    <img src="https://img.youtube.com/vi/gixlmgAchWg/0.jpg" width="400"/>
+  </a>
+</p>
+
+👉 Click the image to watch the video
 
 ---
 
@@ -42,3 +43,7 @@ A modern Flutter car rental application that allows users to browse, view detail
 - BLoC
 - Firebase
 - Clean Architecture
+
+---
+
+## 📂 Project Structure
