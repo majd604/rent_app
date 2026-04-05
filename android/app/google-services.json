@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757930163137",
+    "project_id": "rent-app-majd",
+    "storage_bucket": "rent-app-majd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757930163137:android:e2274f3c2099fd75ff4d40",
+        "android_client_info": {
+          "package_name": "com.example.rent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzA5f8UQ7S7_NkslpdKp1-WCOrmTeVVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
